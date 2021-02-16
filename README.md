@@ -12,7 +12,10 @@ Likewise, we want to evaluate the differences in stock performances between 2017
 ## Results
 ### Refactoring:
 The code was refactored so that data from both 2017 and 2018 could be accessed without having to repeat the code made initially in the module.
+#### yearValue Variable Example 1:
 ![Refactoring #1.1](https://github.com/mbroad1/stock-analysis/blob/main/VBA%20Challenge%20Resources/Refactoring%20%231.1.png)
-
+#### yearValue Variable Example 2:
 ![Refactoring #1.2](https://github.com/mbroad1/stock-analysis/blob/main/VBA%20Challenge%20Resources/Refactoring%20%231.2.png)
 As you can see in the above images of code, initializing the variable "yearValue" makes it so that the user can input either 2017 and 2018 to generate the analysis specifically for that year. Unlike this refactored code, the original code activated the 2018 worksheet so that all analyses were done with just that worksheet; therefore, in order to analyze the 2017 worksheet, we would have to copy and paste the code activating the 2017 worksheet for this piece of code. However, copying and pasting this code causes a longer analysis time.
+#### Original Code Time for 2017
+![VBA_Challenge_Original_2017](https://github.com/mbroad1/stock-analysis/blob/main/VBA%20Challenge%20Resources/VBA_Challenge_2017_Original.png)
