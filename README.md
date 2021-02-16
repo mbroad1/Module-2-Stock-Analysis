@@ -26,4 +26,4 @@ The above images are the times that it took for the original code to run for 201
 ![VBA_Challenge_2017](https://github.com/mbroad1/stock-analysis/blob/main/VBA%20Challenge%20Resources/VBA_Challenge_2017.png)
 #### Refactored Code Time for 2018:
 ![VBA_Challenge_2018](https://github.com/mbroad1/stock-analysis/blob/main/VBA%20Challenge%20Resources/VBA_Challenge_2018.png)
-Differently from the original code times, the refactored code times are faster.
+Differently from the original code times, the refactored code times are faster. Originally, it took about 0.59 seconds to run the analysis for the 2017 worksheet. With the refactored code, the 2017 analysis can be done in 0.56 seconds. Likewise, the original code made to analyze the stock performance in 2018 was about 0.59 seconds. Differently, with the refactored code, the 2018 analysis can be done in about 0.55 seconds. Although the time difference may seem insignificant, if there were more than 12 stocks being analyzed (such as over 1000 stocks), this refactored code would save a significant amount of time.
