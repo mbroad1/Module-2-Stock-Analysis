@@ -26,3 +26,4 @@ The above images are the times that it took for the original code to run for 201
 ![VBA_Challenge_2017](https://github.com/mbroad1/stock-analysis/blob/main/VBA%20Challenge%20Resources/VBA_Challenge_2017.png)
 #### Refactored Code Time for 2018:
 ![VBA_Challenge_2018](https://github.com/mbroad1/stock-analysis/blob/main/VBA%20Challenge%20Resources/VBA_Challenge_2018.png)
+Differently from the original code times, the refactored code times are faster.
