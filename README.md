@@ -55,3 +55,9 @@ Looking at the data, we can see that stocks like ENPH and RUN have greater total
 #### Disadvantages:
 - If you are trying to refactor code that was taken from an outside source, you may not understand the code and thus could mess up the function of the code during refactoring.
 - Refactoring, in general, could affect the testing outcomes.
+
+### 2) What are the advantages and disadvantages of the original and refactored VBA scripts?
+
+Although the refactored code is faster than the original code, one advantage of the original code is that since it directly refers to one dataset, the one of 2018, it may be easier to interpret and follow since only one worksheet is involved. However, the fact that the 2018 worksheet is the only dataset included in the original VBA script makes it so that it is disadvantageous since deeper data analysis like also analyzing the 2017 dataset is unable to be executed in the script. Another disadvantage of the original VBA script is that if more stocks were to be analyzed, like over 1000 stocks, then the code would execute much more slowly than the refactored VBA script.
+
+On the other hand, one advantage of refactoring the original VBA script was that the function of the original code stayed the same, but the refactored code made it so that either the 2017 or 2018 datasets could be accessed, not just the 2018 dataset like in the original VBA script. Another advantage of refactoring the VBA script is that the code reads cleaner and is more succinct in its function. However, a disadvantage of the refactored VBA script could be that when looked at at a later time point, the refactored adjustments in the script may not make sense so when trying to add or change the script, the code's function may change or may not work in general. Therefore, one must be careful and diligent in making comments in their code, especially when refactoring, so that they can understand the function behind the code at a later time point.
