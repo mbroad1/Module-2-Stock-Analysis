@@ -21,3 +21,8 @@ As you can see in the above images of code, initializing the variable "yearValue
 ![VBA_Challenge_Original_2017](https://github.com/mbroad1/stock-analysis/blob/main/VBA%20Challenge%20Resources/VBA_Challenge_2017_Original.png)
 #### Original Code Time for 2018:
 ![VBA_Challenge_Original_2018](https://github.com/mbroad1/stock-analysis/blob/main/VBA%20Challenge%20Resources/VBA_Challenge_2018_Original.png)
+The above images are the times that it took for the original code to run for 2017 and 2018, respectively.
+#### Refactored Code Time for 2017:
+![VBA_Challenge_2017](https://github.com/mbroad1/stock-analysis/blob/main/VBA%20Challenge%20Resources/VBA_Challenge_2017.png)
+#### Refactored Code Time for 2018:
+![VBA_Challenge_2018](https://github.com/mbroad1/stock-analysis/blob/main/VBA%20Challenge%20Resources/VBA_Challenge_2018.png)
