@@ -34,3 +34,6 @@ Shown below are the analyses done for the stock performances in 2017 and 2018, r
 ![VBA_2017_Stock_Result](https://github.com/mbroad1/stock-analysis/blob/main/VBA%20Challenge%20Resources/VBA_2017_Stock_Result.png)
 #### 2018 Stock Analysis:
 ![VBA_2018_Stock_Result](https://github.com/mbroad1/stock-analysis/blob/main/VBA%20Challenge%20Resources/VBA_2018_Stock_Result.png)
+In 2017, all of the stocks, except TERP, increased in value relative to their starting price that year. The stock that increased the greatest in price at its end of year was DQ with a growth of 199.4%. However in terms of total daily volume, the most traded stock was SPWR with a total daily volume of 782,187,000. TERP, the only stock that decreased in value relative to its starting price in 2017, decreased by 7.2%.
+
+However, the 2018 analysis reveals a drastic shift in pattern from the 2017 analysis. In 2018, only two stocks, ENPH and RUN, increased in price at the end of the year relative to their price at the start of the year, with increases of 81.9% and 84%, respectively.
