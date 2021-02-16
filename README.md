@@ -39,4 +39,19 @@ In 2017, all of the stocks, except TERP, increased in value relative to their st
 
 However, the 2018 analysis reveals a drastic shift in pattern from the 2017 analysis. In 2018, only two stocks, ENPH and RUN, increased in price at the end of the year relative to their price at the start of the year, with increases of 81.9% and 84%, respectively. Unlike in 2017, DQ was the stock that decreased the most in value by the end of the year with a 62.6% overall decrease in selling price. Interestingly, in 2018, the stock with the greatest total daily volume was ENPH with 607,473,500 as the total daily volume. 
 
-Looking at the data, we can see that stocks like ENPH and RUN have greater total daily volumes in 2018 than those of 2017, and their stock prices positively correlate with an increase in total daily volume as their stock prices increased by the end of 2018. Differently, stocks that had smaller total daily volumes in 2017 than 2018 like SPWR and AY decreased in stock price by the end of 2018 in comparison to 2017 when they were increasing relative to the start of the year. Therefore, we could conclude that there is a strong relationship between total daily volume and return.
+Looking at the data, we can see that stocks like ENPH and RUN have greater total daily volumes in 2018 than those of 2017, and their stock prices positively correlate with an increase in total daily volume as their stock prices increased by the end of 2018. Differently, stocks that had smaller total daily volumes in 2017 than 2018 like SPWR and AY decreased in stock price by the end of 2018 in comparison to 2017 when they were increasing relative to the start of the year. Therefore, we can conclude that there is a strong relationship between total daily volume and return.
+
+---
+## Summary
+
+### 1) What are the advantages and disadvantages of refactoring code in general?
+
+#### Advantages:
+- Refactoring code makes the code more efficient and maintainable.
+- The function of the code remains the same making it very convenient to use in multiple applications.
+- Refactoring helps avoid "code rot" which can result in duplicate code and programming discrepancies that can be hard to debug.
+- Refactoring helps to clean up the code, and thus improves the presentability and quality of the code itself.
+
+#### Disadvantages:
+- If you are trying to refactor code that was taken from an outside source, you may not understand the code and thus could mess up the function of the code during refactoring.
+- Refactoring, in general, could affect the testing outcomes.
